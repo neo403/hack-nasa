@@ -27,3 +27,5 @@ $ python run.py
 Jangan install why
 # Login
 Akses Token
+# ghost 👻
+Bila ad apa pun admin tidak bertanggung jawab
