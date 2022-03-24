@@ -1,5 +1,9 @@
-
-# Bahan
+### baca sampai bawa
+```sh
+Kalau ga baca nyesel
+```sh
+### bahan
+```sh
 $ pkg upgrade && pkg update
 
 $ pkg install python
@@ -16,16 +20,18 @@ $ pip install futures
 
 $ pip install mechanize
 
-$ git clone https://github.com/JaeXploit/efbe.git
-
-# Cara Menjalankan
-$ cd redwolf
-
+$ git clone https://github.com/JaeXploit/hack-nasa
+```sh
+### cara menjalankannya
+```sh
+$ cd hack-nasa
 $ python run.py
-
-# Note
-Jangan install why
-# Login
-Akses Token
-# ghost 👻
-Bila ad apa pun admin tidak bertanggung jawab
+```sh
+### note
+```sh
+Admin tidak bertanggung jawab bila Anda tertangkap FBI
+```sh
+### warning
+```sh
+Baca dulu di run.py
+```sh
