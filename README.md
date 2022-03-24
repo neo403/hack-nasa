@@ -1,37 +1,41 @@
-# baca sampai bawa
+### baca sampai bawa
 ```sh
-Kalau ga baca nyesel
+-> kalau ga baca nyesel
 ```sh
 ### bahan
 ```sh
-$ pkg upgrade && pkg update
+-> pkg upgrade && pkg update
 
-$ pkg install python
+-> pkg install python
 
-$ pkg install git
+-> pkg install git
 
-$ pip install requests
+-> pip install requests
 
-$ pip install bs4
+-> pip install bs4
 
-$ pip install rich
+-> pip install rich
 
-$ pip install futures
+-> pip install futures
 
-$ pip install mechanize
+-> pip install mechanize
 
-$ git clone https://github.com/JaeXploit/hack-nasa
+-> git clone https://github.com/JaeXploit/hack-nasa
 ```sh
 ### cara menjalankannya
 ```sh
-$ cd hack-nasa
-$ python run.py
+-> cd hack-nasa
+-> python run.py
 ```sh
 ### note
 ```sh
-Admin tidak bertanggung jawab bila Anda tertangkap FBI
+-> Admin tidak bertanggung jawab bila Anda tertangkap FBI
 ```sh
 ### warning
 ```sh
-Baca dulu di run.py
+-> Baca dulu di run.py
+```sh
+### u/p
+```sh
+-> root
 ```sh
